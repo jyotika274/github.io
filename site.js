@@ -1,1 +1,1 @@
-console.log("from style file")
+console.log("check")
